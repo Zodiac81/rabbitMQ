@@ -1,0 +1,9 @@
+/var/www/html/rabbitMQ/src/exchanges/direct/receive_logs_direct.php:22:
+array(2) {
+  [0] =>
+  string(7) "warning"
+  [1] =>
+  string(5) "error"
+}
+ [*] Waiting for logs. To exit press CTRL+C
+ [x] warning:Run. Run. Or it will fuck your ass
